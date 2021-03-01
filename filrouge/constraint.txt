@@ -1,0 +1,7 @@
+PRECEDENCE bus cours
+PRECEDENCE_GAP 20 cafe cours
+PRECEDENCE_GAP 30 cours pause
+MEET bus cours
+PRECEDENCE reseaux cours
+PRECEDENCE logComb sortie
+MAX_SPAN 60 cafe bus cours reseaux pause algo sortie

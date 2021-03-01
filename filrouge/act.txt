@@ -1,0 +1,11 @@
+cafe 5 Prendre un cafe
+bus 30 Trajet en bus
+cours 75 CM de POO en amphi Le Verrier
+reseaux 45 TD reseaux en salle s3 135
+pause 60 pause dejeuner 
+algo 30 CM d'algorithmique en amphi 500
+logComb 45 CM de logique combinatoire en amphi Cauchy
+sortie  120 sortie du vendredi soir entre potes 
+
+
+
